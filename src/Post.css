@@ -11,6 +11,10 @@
     position: relative;
     align-items: center;
     padding: 15px;
+    
+}
+.post__topInfo {
+    margin-left: 10px;
 }
 
 .post__topInfo > h3 {
